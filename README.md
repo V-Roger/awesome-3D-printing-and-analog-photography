@@ -6,13 +6,11 @@ _As originally seen on [Facebook](https://www.facebook.com/groups/3dprinting.and
 
 ## Contents
 
-- [3D printing and analog photography ![Awesome](https://awesome.re)](#3d-printing-and-analog-photography-)
-  - [Contents](#contents)
-  - [Models](#models)
-  - [3D Prints](#3d-prints)
-  - [Photographs](#photographs)
-  - [Commercial brands](#commercial-brands)
-  - [Contribute](#contribute)
+- [Models](#models)
+- [3D Prints](#3d-prints)
+- [Photographs](#photographs)
+- [Commercial brands](#commercial-brands)
+- [Contribute](#contribute)
 
 
 ## Models
@@ -45,4 +43,4 @@ Gotta earn that bread.
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
