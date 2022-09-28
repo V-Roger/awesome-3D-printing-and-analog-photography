@@ -23,7 +23,11 @@ Cameras, tools, accessories, you think of it, it can be done.
 - [Will Travel Friendly Cameras](https://film.kolve.org/darkroomdiy/will-travel-friendly-cameras/)
 - [Polaroid 150, 250, 350 and 450 series packfilm camera front standard ](https://www.printables.com/model/156068-polaroid-150-250-350-and-450-series-packfilm-camer)
 - [Humby Argent eye 6x9 Camera ](https://www.printables.com/model/124415-humby-argent-eye-6x9-camera) // [sources on GitHub](https://github.com/DamienHazard/Argent-eye)
-
+- [PiCa135 pinhole camera with shift capabilities](https://www.printables.com/model/168683-pica135-a-pinhole-camera-with-shift-capabilities)
+- [Hasselblad Film Magazine Mount - Pinhole camera, matte screen holder, Holga lens board, and Pentax 67 bayonet mount](https://www.printables.com/model/247783-hasselblad-film-magazine-mount-pinhole-camera-matt)
+- [Filmclip version 2 incl film hanger and squeegee](https://www.printables.com/model/168691-filmclip-version-2-incl-film-hanger-and-squeegee)
+- [Lens hood 49mm (push on)](https://www.printables.com/model/249076-lens-hood-49mm-push-on)
+- [PiCaMi - Minox pinhole camera with shift option](https://www.printables.com/model/224784-picami-minox-pinhole-camera-with-shift-option)
 
 ## 3D Prints
 
@@ -36,7 +40,7 @@ When plastic makes silver cool again.
 - [Imagerie par résonances (by Virgil Roger on a Cameradactyl Brancopan)](https://virgil-roger.photography/gallery/imagerie-par-r%C3%A9sonances)
 
 
-## Commercial brands
+## Commercial brands & products
 
 Gotta earn that bread.
 
@@ -44,6 +48,7 @@ Gotta earn that bread.
 - [Cameradactyl](https://www.cameradactyl.com/)
 - [Chroma Cameras](https://chroma.camera)
 - [Malefic](https://www.maleficcameras.com/)
+- [AnalogueGoods : Nikon 4000ED and 5000ED Full-Roll Conversion Kit ](https://www.etsy.com/pl/listing/949217792/nikon-4000ed-and-5000ed-full-roll)
 
 ## Contribute
 
