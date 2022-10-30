@@ -28,6 +28,10 @@ Cameras, tools, accessories, you think of it, it can be done.
 - [Filmclip version 2 incl film hanger and squeegee](https://www.printables.com/model/168691-filmclip-version-2-incl-film-hanger-and-squeegee)
 - [Lens hood 49mm (push on)](https://www.printables.com/model/249076-lens-hood-49mm-push-on)
 - [PiCaMi - Minox pinhole camera with shift option](https://www.printables.com/model/224784-picami-minox-pinhole-camera-with-shift-option)
+- [Pentax auto 110 Pinhole Body Cap](https://www.printables.com/model/129517-pentax-auto-110-pinhole-body-cap)
+- [Modal A spirit level for Hasselblad V series cameras](https://www.printables.com/model/160758-hasselblad-spirit-level-model-a)
+- [Film Drop: a stylized 3-roll 120 film case](https://www.printables.com/model/230450-film-drop-120-film-case)
+- [Sweet Transfer Pod (with redscale option) - Easily moving 35mm film around to fit your shooting needs](https://www.youtube.com/watch?v=RiYqM2nzGAE)
 
 ## 3D Prints
 
