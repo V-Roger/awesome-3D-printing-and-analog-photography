@@ -32,6 +32,7 @@ Cameras, tools, accessories, you think of it, it can be done.
 - [Modal A spirit level for Hasselblad V series cameras](https://www.printables.com/model/160758-hasselblad-spirit-level-model-a)
 - [Film Drop: a stylized 3-roll 120 film case](https://www.printables.com/model/230450-film-drop-120-film-case)
 - [Sweet Transfer Pod (with redscale option) - Easily moving 35mm film around to fit your shooting needs](https://www.youtube.com/watch?v=RiYqM2nzGAE)
+- [SPRKPLG free files (see commercial prints below)](https://www.printables.com/fr/social/26415-sprkplg/models)
 
 ## 3D Prints
 
@@ -53,6 +54,7 @@ Gotta earn that bread.
 - [Chroma Cameras](https://chroma.camera)
 - [Malefic](https://www.maleficcameras.com/)
 - [AnalogueGoods : Nikon 4000ED and 5000ED Full-Roll Conversion Kit ](https://www.etsy.com/pl/listing/949217792/nikon-4000ed-and-5000ed-full-roll)
+- [SPRKPLG](https://sprkplg.com/shop-2/)
 
 ## Contribute
 
