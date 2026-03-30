@@ -19,6 +19,7 @@ _As originally seen on [Facebook](https://www.facebook.com/groups/3dprinting.and
 
 Cameras, tools, accessories, you think of it, it can be done.
 
+- [Overview of over 100 printable cameras](https://printed.analogcamera.space)
 - [Edgar Kech's Scalable large format field camera](https://github.com/edgarkech/scalable_field_camera)
 - [Will Travel Friendly Cameras](https://film.kolve.org/darkroomdiy/will-travel-friendly-cameras/)
 - [Polaroid 150, 250, 350 and 450 series packfilm camera front standard ](https://www.printables.com/model/156068-polaroid-150-250-350-and-450-series-packfilm-camer)
